@@ -1,0 +1,20 @@
+/*
+Theme Name: Child of Twenty Seventeen
+Description: Child Theme for devtools2 Class
+Author: Fred Neumann
+Version: 1.0
+Template:twentyseventeen
+*/
+@import url('../twentyseventeen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400,400i,700|Titillium+Web:400,700');
+
+/* typography changes */
+
+/*font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Titillium Web', sans-serif;*/
+h1,h2,h3,h4,h5,h6 { font-size: 28px }
+{
+	.entry-title {font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Titillium Web', sans-serif;}
+}
+h1.entry-title { /*changing only page titles color*/color: gray;}
