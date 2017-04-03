@@ -112,6 +112,10 @@ body {
 	line-height: 1.5;
 	margin: 0;
 }
+.site-header .home-link {
+	min-height: 120px;
+}
+
 
 a {
 	color: #ca3c08;
